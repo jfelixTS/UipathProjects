@@ -1,0 +1,45 @@
+{
+  "name": "TrialAndre",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ActivitiesCustomWordClose": "[1.0.0]",
+    "Codentia.Common.MSOffice.dll": "[2.0.0.1]",
+    "DocX": "[1.6.0]",
+    "MSOffice.Object.Library": "[15.0.4420.1018]",
+    "swxben.docxtemplateengine": "[0.1.5]",
+    "TextAtAnyCost": "[1.0.1]",
+    "TsSoft.Docx.TemplateEngine": "[1.1.5667.30206]",
+    "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.Mail.Activities": "[1.7.2]",
+    "UiPath.System.Activities": "[19.10.1]",
+    "UiPath.UIAutomation.Activities": "[19.11.1]",
+    "UiPath.Word.Activities": "[1.4.2-preview]",
+    "WordActivities": "[2.3.3]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.10.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfos": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
